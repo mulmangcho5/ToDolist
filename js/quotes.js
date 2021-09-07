@@ -68,16 +68,16 @@ const quotes = [
     author:"-Colin R. Davis-",
 },
 {
-    quote:"It is better to fail in originality than to succeed in imitation.",
-    author:"-Herman Melville-",
+    quote:"다기야가 없어진건, 내게 큰 슬픔이다.",
+    author:"-허진형-",
 },
 {
-    quote:"Love asks me no questions, and gives me endless support",
-    author:"-William Shakespeare -",
+    quote:"배달 음식비가 비싸질수록, 그만한 가치가 있다.(더 맛있다)",
+    author:"-허진형-",
 },
 {
-    quote:"The supreme happiness in life is the conviction that we are loved.",
-    author:"-Victor Hugo-",
+    quote:"잠온다",
+    author:"-허진형-",
 }
 ];
 
