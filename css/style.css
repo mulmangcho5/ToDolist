@@ -115,7 +115,7 @@ img {
 }
 
 #todo-list li{
-    border-style: solid;
+    border: 1px solid white;
     border-color: white;
     border-radius: 8px;
     background-color: transparent;
