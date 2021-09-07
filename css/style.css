@@ -95,9 +95,15 @@ img {
     outline: none;
     padding: 3px;
     background-color: transparent;
-    width: 280px
+    width: 300px;
+    height: 38px;
+    margin
 }
-
+#todo-form input:hover {
+    background-color: rgb(29, 29, 29);
+    
+    
+}
 #todo-form input::placeholder {
     color: white;
 }
@@ -116,11 +122,11 @@ img {
 
 #todo-list li{
     border: 1px solid white;
-    border-color: white;
     border-radius: 8px;
     background-color: transparent;
-    padding: 5px;
+    padding: 0px;
     padding-left: 15px;
+    margin-top: 20px;
     margin-bottom: 18px;
 }
 #greeting {
@@ -142,9 +148,11 @@ img {
     font-size: 20px; 
     text-shadow: 2px 2px rgb(0 0 0 / 50%);
     text-align: center;
-    width: 700px;
+    width: 700px;   
 }
-
+#quote span:hover {
+    font-size: 28px;
+}
 #weather {
     position: absolute;
     left: 50%;
