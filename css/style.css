@@ -129,6 +129,10 @@ img {
     margin-top: 20px;
     margin-bottom: 18px;
 }
+#todo-list li button:hover {
+    background-color: rgb(29, 29, 29);
+    font-size: 20px;
+}
 #greeting {
     position: absolute;
     left: 50%;
@@ -150,7 +154,7 @@ img {
     text-align: center;
     width: 700px;   
 }
-#quote span:hover {
+#quote:hover {
     font-size: 28px;
 }
 #weather {
