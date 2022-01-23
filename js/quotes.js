@@ -67,18 +67,7 @@ const quotes = [
     quote:"The road to success and the road to failure are almost exactly the same.",
     author:"-Colin R. Davis-",
 },
-{
-    quote:"다기야가 없어진건, 내게 큰 슬픔이다.",
-    author:"-허진형-",
-},
-{
-    quote:"배달 음식비가 비싸질수록, 그만한 가치가 있다.(더 맛있다)",
-    author:"-허진형-",
-},
-{
-    quote:"잠온다",
-    author:"-허진형-",
-}
+
 ];
 
 const quote = document.querySelector("#quote span:first-child");
